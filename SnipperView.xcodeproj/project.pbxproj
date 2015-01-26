@@ -14,6 +14,8 @@
 		B5A9C9BA1A7604FF006E38D1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5A9C9B91A7604FF006E38D1 /* Images.xcassets */; };
 		B5A9C9BD1A7604FF006E38D1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5A9C9BB1A7604FF006E38D1 /* LaunchScreen.xib */; };
 		B5A9C9C91A760500006E38D1 /* SnipperViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5A9C9C81A760500006E38D1 /* SnipperViewTests.m */; };
+		B5A9C9D31A760512006E38D1 /* wall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5A9C9D21A760512006E38D1 /* wall.jpg */; };
+		B5A9C9D51A7607E9006E38D1 /* screenshot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5A9C9D41A7607E9006E38D1 /* screenshot.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		B5A9C9C21A760500006E38D1 /* SnipperViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnipperViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A9C9C71A760500006E38D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5A9C9C81A760500006E38D1 /* SnipperViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SnipperViewTests.m; sourceTree = "<group>"; };
+		B5A9C9D21A760512006E38D1 /* wall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wall.jpg; sourceTree = "<group>"; };
+		B5A9C9D41A7607E9006E38D1 /* screenshot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screenshot.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +89,8 @@
 				B5A9C9B11A7604FF006E38D1 /* AppDelegate.m */,
 				B5A9C9B31A7604FF006E38D1 /* ViewController.h */,
 				B5A9C9B41A7604FF006E38D1 /* ViewController.m */,
+				B5A9C9D41A7607E9006E38D1 /* screenshot.jpg */,
+				B5A9C9D21A760512006E38D1 /* wall.jpg */,
 				B5A9C9B61A7604FF006E38D1 /* Main.storyboard */,
 				B5A9C9B91A7604FF006E38D1 /* Images.xcassets */,
 				B5A9C9BB1A7604FF006E38D1 /* LaunchScreen.xib */,
@@ -202,6 +208,8 @@
 				B5A9C9B81A7604FF006E38D1 /* Main.storyboard in Resources */,
 				B5A9C9BD1A7604FF006E38D1 /* LaunchScreen.xib in Resources */,
 				B5A9C9BA1A7604FF006E38D1 /* Images.xcassets in Resources */,
+				B5A9C9D31A760512006E38D1 /* wall.jpg in Resources */,
+				B5A9C9D51A7607E9006E38D1 /* screenshot.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
